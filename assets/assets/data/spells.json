@@ -4,64 +4,64 @@
       "id": "wand_lighting",
       "dan": 1,
       "nameEn": "Wand-Lighting Charm",
-      "nameJa": "ひかりのまほう",
-      "description": "杖先が光る"
+      "nameJa": "ライトのまほう",
+      "description": "つえのさきがひかる"
     },
     {
       "id": "doubling",
       "dan": 2,
       "nameEn": "Doubling Charm",
-      "nameJa": "ふえるまほう",
-      "description": "ものが2つに増える"
+      "nameJa": "ダブルのまほう",
+      "description": "ものが2つにふえる"
     },
     {
       "id": "levitation",
       "dan": 3,
       "nameEn": "Levitation Charm",
-      "nameJa": "うかぶまほう",
-      "description": "ものがふわっと浮く"
+      "nameJa": "フワフワのまほう",
+      "description": "ものがふわっとうく"
     },
     {
       "id": "mending",
       "dan": 4,
       "nameEn": "Mending Charm",
-      "nameJa": "なおすまほう",
-      "description": "こわれたものが元どおりになる"
+      "nameJa": "ヒールのまほう",
+      "description": "こわれたものがもとどおりになる"
     },
     {
       "id": "unlocking",
       "dan": 5,
       "nameEn": "Unlocking Charm",
-      "nameJa": "ひらくまほう",
-      "description": "かぎが開く"
+      "nameJa": "オープンのまほう",
+      "description": "かぎがあく"
     },
     {
       "id": "bird_conjuring",
       "dan": 6,
       "nameEn": "Bird-Conjuring Charm",
-      "nameJa": "ことりのまほう",
-      "description": "小鳥があらわれて歌う"
+      "nameJa": "バードのまほう",
+      "description": "ことりがあらわれてうたう"
     },
     {
       "id": "tickling",
       "dan": 7,
       "nameEn": "Tickling Charm",
-      "nameJa": "くすぐりのまほう",
-      "description": "思わず笑ってしまう"
+      "nameJa": "コチョコチョのまほう",
+      "description": "おもわずわらってしまう"
     },
     {
       "id": "dancing_feet",
       "dan": 8,
       "nameEn": "Dancing Feet Spell",
-      "nameJa": "おどるまほう",
-      "description": "楽しく足が踊りだす"
+      "nameJa": "ダンスのまほう",
+      "description": "たのしくあしがおどりだす"
     },
     {
       "id": "flower_conjuring",
       "dan": 9,
       "nameEn": "Flower-Conjuring Charm",
-      "nameJa": "おはなのまほう",
-      "description": "花びらが降る"
+      "nameJa": "フラワーのまほう",
+      "description": "はなびらがふる"
     }
   ]
 }
