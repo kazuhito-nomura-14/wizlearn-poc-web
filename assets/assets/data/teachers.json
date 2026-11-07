@@ -7,6 +7,70 @@
       "displayName": "パム先生",
       "personality": "草花が好きでおっとり。「〜ね」とゆっくり話す",
       "spellId": "wand_lighting"
+    },
+    {
+      "dan": 2,
+      "id": "big_rob",
+      "name": "Rob \"Big Rob\" Haggerty",
+      "displayName": "ビッグ・ロブ先生",
+      "personality": "体が大きく豪快。「がっはっは！」と大声で笑う",
+      "spellId": "doubling"
+    },
+    {
+      "dan": 3,
+      "id": "phil",
+      "name": "Phil Whitaker",
+      "displayName": "フィル先生",
+      "personality": "小柄で元気いっぱい。すぐ「すばらしい！」と跳びはねる",
+      "spellId": "levitation"
+    },
+    {
+      "dan": 4,
+      "id": "poppy",
+      "name": "Poppy Pomeroy",
+      "displayName": "ポピー先生",
+      "personality": "保健室の先生。世話好きで少し心配性",
+      "spellId": "mending"
+    },
+    {
+      "dan": 5,
+      "id": "rhonda",
+      "name": "Rhonda Hooper",
+      "displayName": "ロンダ先生",
+      "personality": "ほうきに乗る体育会系。ホイッスルを鳴らしてはきはき話す",
+      "spellId": "unlocking"
+    },
+    {
+      "dan": 6,
+      "id": "howie",
+      "name": "Howard \"Howie\" Slade",
+      "displayName": "ハウィー先生",
+      "personality": "おしゃべりでお菓子が大好き。ごほうびにキャンディをくれる",
+      "spellId": "bird_conjuring"
+    },
+    {
+      "dan": 7,
+      "id": "remy",
+      "name": "Remy Lewis",
+      "displayName": "レミー先生",
+      "personality": "穏やかで落ち着いている。つまずくとチョコをくれる",
+      "spellId": "tickling"
+    },
+    {
+      "dan": 8,
+      "id": "sybil",
+      "name": "Sybil Trent",
+      "displayName": "シビル先生",
+      "personality": "占い好きの不思議な先生。「水晶玉に見えるわ…」が口ぐせ",
+      "spellId": "dancing_feet"
+    },
+    {
+      "dan": 9,
+      "id": "maggie",
+      "name": "Margaret \"Maggie\" McGowan",
+      "displayName": "マギー先生",
+      "personality": "副校長。きびしいけど本当は温かい。ていねいな言葉づかい",
+      "spellId": "flower_conjuring"
     }
   ],
   "principal": {

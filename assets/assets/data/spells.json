@@ -6,6 +6,62 @@
       "nameEn": "Wand-Lighting Charm",
       "nameJa": "ひかりのまほう",
       "description": "杖先が光る"
+    },
+    {
+      "id": "doubling",
+      "dan": 2,
+      "nameEn": "Doubling Charm",
+      "nameJa": "ふえるまほう",
+      "description": "ものが2つに増える"
+    },
+    {
+      "id": "levitation",
+      "dan": 3,
+      "nameEn": "Levitation Charm",
+      "nameJa": "うかぶまほう",
+      "description": "ものがふわっと浮く"
+    },
+    {
+      "id": "mending",
+      "dan": 4,
+      "nameEn": "Mending Charm",
+      "nameJa": "なおすまほう",
+      "description": "こわれたものが元どおりになる"
+    },
+    {
+      "id": "unlocking",
+      "dan": 5,
+      "nameEn": "Unlocking Charm",
+      "nameJa": "ひらくまほう",
+      "description": "かぎが開く"
+    },
+    {
+      "id": "bird_conjuring",
+      "dan": 6,
+      "nameEn": "Bird-Conjuring Charm",
+      "nameJa": "ことりのまほう",
+      "description": "小鳥があらわれて歌う"
+    },
+    {
+      "id": "tickling",
+      "dan": 7,
+      "nameEn": "Tickling Charm",
+      "nameJa": "くすぐりのまほう",
+      "description": "思わず笑ってしまう"
+    },
+    {
+      "id": "dancing_feet",
+      "dan": 8,
+      "nameEn": "Dancing Feet Spell",
+      "nameJa": "おどるまほう",
+      "description": "楽しく足が踊りだす"
+    },
+    {
+      "id": "flower_conjuring",
+      "dan": 9,
+      "nameEn": "Flower-Conjuring Charm",
+      "nameJa": "おはなのまほう",
+      "description": "花びらが降る"
     }
   ]
 }
