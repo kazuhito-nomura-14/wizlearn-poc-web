@@ -42,5 +42,22 @@
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
   <script src="flutter_bootstrap.js" async></script>
+  <script>
+    // オフライン用の service worker を登録する（Flutter のローダーは、新しい版では自分では登録しない）。
+    // 読み込みが落ち着いてから、先読みを頼む（初回の読み込みを遅らせない）。
+    window.addEventListener('load', function () {
+      if (!('serviceWorker' in navigator)) return;
+      navigator.serviceWorker
+        .register('flutter_service_worker.js')
+        .then(function () {
+          setTimeout(function () {
+            navigator.serviceWorker.ready.then(function (reg) {
+              if (reg.active) reg.active.postMessage({ type: 'precache' });
+            });
+          }, 5000);
+        })
+        .catch(function () {});
+    });
+  </script>
 </body>
 </html>
