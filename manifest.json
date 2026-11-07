@@ -1,6 +1,6 @@
 {
-    "name": "wizlearn_poc",
-    "short_name": "wizlearn_poc",
+    "name": "Wizlearn",
+    "short_name": "Wizlearn",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
