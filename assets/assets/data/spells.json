@@ -5,7 +5,7 @@
       "dan": 1,
       "nameEn": "Wand-Lighting Charm",
       "nameJa": "ライトのまほう",
-      "description": "つえのさきがひかる"
+      "description": "つえのさきが光《ひか》る"
     },
     {
       "id": "doubling",
@@ -40,14 +40,14 @@
       "dan": 6,
       "nameEn": "Bird-Conjuring Charm",
       "nameJa": "バードのまほう",
-      "description": "ことりがあらわれてうたう"
+      "description": "小鳥《ことり》があらわれて歌《うた》う"
     },
     {
       "id": "tickling",
       "dan": 7,
       "nameEn": "Tickling Charm",
       "nameJa": "コチョコチョのまほう",
-      "description": "おもわずわらってしまう"
+      "description": "思《おも》わずわらってしまう"
     },
     {
       "id": "dancing_feet",
