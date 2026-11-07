@@ -1,0 +1,11 @@
+{
+  "spells": [
+    {
+      "id": "wand_lighting",
+      "dan": 1,
+      "nameEn": "Wand-Lighting Charm",
+      "nameJa": "ひかりのまほう",
+      "description": "杖先が光る"
+    }
+  ]
+}

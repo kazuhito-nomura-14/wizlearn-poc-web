@@ -1,0 +1,17 @@
+{
+  "teachers": [
+    {
+      "dan": 1,
+      "id": "pam",
+      "name": "Pamela \"Pam\" Sprague",
+      "displayName": "パム先生",
+      "personality": "草花が好きでおっとり。「〜ね」とゆっくり話す",
+      "spellId": "wand_lighting"
+    }
+  ],
+  "principal": {
+    "id": "al",
+    "name": "Albert \"Al\" Dunbar",
+    "displayName": "ダンバーこうちょう"
+  }
+}
