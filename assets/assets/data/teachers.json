@@ -3,79 +3,79 @@
     {
       "dan": 1,
       "id": "pam",
-      "name": "Pamela \"Pam\" Sprague",
-      "displayName": "パムせんせい",
+      "name": "Mint Hartley",
+      "displayName": "ミントせんせい",
       "personality": "草花が好きでおっとり。「〜ね」とゆっくり話す",
       "spellId": "wand_lighting"
     },
     {
       "dan": 2,
       "id": "big_rob",
-      "name": "Rob \"Big Rob\" Haggerty",
-      "displayName": "ビッグ・ロブせんせい",
+      "name": "Bolda Garrick",
+      "displayName": "ボルダせんせい",
       "personality": "体が大きく豪快。「がっはっは！」と大声で笑う",
       "spellId": "doubling"
     },
     {
       "dan": 3,
       "id": "phil",
-      "name": "Phil Whitaker",
-      "displayName": "フィルせんせい",
+      "name": "Pico Ashby",
+      "displayName": "ピコせんせい",
       "personality": "小柄で元気いっぱい。すぐ「すばらしい！」と跳びはねる",
       "spellId": "levitation"
     },
     {
       "dan": 4,
       "id": "poppy",
-      "name": "Poppy Pomeroy",
-      "displayName": "ポピーせんせい",
+      "name": "Lara Finch",
+      "displayName": "ララせんせい",
       "personality": "保健室の先生。世話好きで少し心配性",
       "spellId": "mending"
     },
     {
       "dan": 5,
       "id": "rhonda",
-      "name": "Rhonda Hooper",
-      "displayName": "ロンダせんせい",
+      "name": "Sunny Marlowe",
+      "displayName": "サニーせんせい",
       "personality": "ほうきに乗る体育会系。ホイッスルを鳴らしてはきはき話す",
       "spellId": "unlocking"
     },
     {
       "dan": 6,
       "id": "howie",
-      "name": "Howard \"Howie\" Slade",
-      "displayName": "ハウィーせんせい",
+      "name": "Moka Daley",
+      "displayName": "モカせんせい",
       "personality": "おしゃべりでお菓子が大好き。ごほうびにキャンディをくれる",
       "spellId": "bird_conjuring"
     },
     {
       "dan": 7,
       "id": "remy",
-      "name": "Remy Lewis",
-      "displayName": "レミーせんせい",
+      "name": "Noa Whitlock",
+      "displayName": "ノアせんせい",
       "personality": "穏やかで落ち着いている。つまずくとチョコをくれる",
       "spellId": "tickling"
     },
     {
       "dan": 8,
       "id": "sybil",
-      "name": "Sybil Trent",
-      "displayName": "シビルせんせい",
+      "name": "Luna Faye",
+      "displayName": "ルナせんせい",
       "personality": "占い好きの不思議な先生。「水晶玉に見えるわ…」が口ぐせ",
       "spellId": "dancing_feet"
     },
     {
       "dan": 9,
       "id": "maggie",
-      "name": "Margaret \"Maggie\" McGowan",
-      "displayName": "マギーせんせい",
+      "name": "Rose Ellery",
+      "displayName": "ローズせんせい",
       "personality": "副校長。きびしいけど本当は温かい。ていねいな言葉づかい",
       "spellId": "flower_conjuring"
     }
   ],
   "principal": {
     "id": "al",
-    "name": "Albert \"Al\" Dunbar",
-    "displayName": "ダンバーこうちょう"
+    "name": "Norm Gable",
+    "displayName": "ノームこうちょう"
   }
 }
