@@ -1,63 +1,32 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="ja">
 <head>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
-  <base href="/wizlearn-poc-web/">
-
-  <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
-
-  <!-- iOS meta tags & icons -->
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="Wizlearn">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
-
-  <title>Wizlearn</title>
-  <link rel="manifest" href="manifest.json">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Wizlearn は引っ越しました</title>
+<style>
+  body{margin:0;font-family:"Hiragino Sans","Noto Sans JP","Yu Gothic",Meiryo,sans-serif;line-height:1.8;background:#fbf9ff;color:#26233a}
+  main{max-width:640px;margin:0 auto;padding:32px 16px}
+  h1{font-size:1.5rem;line-height:1.4}
+  .btn{display:inline-block;background:#4a3fa0;color:#fff;font-weight:700;text-decoration:none;padding:14px 26px;border-radius:999px}
+  .box{background:#fff;border:1px solid #e2ddf2;border-radius:10px;padding:12px 16px}
+  @media (prefers-color-scheme:dark){body{background:#171526;color:#ece9f8}.box{background:#221f38;border-color:#38345a}.btn{background:#8f84ee;color:#14122a}}
+</style>
 </head>
 <body>
-  <!--
-    You can customize the "flutter_bootstrap.js" script.
-    This is useful to provide a custom configuration to the Flutter loader
-    or to give the user feedback during the initialization process.
-
-    For more details:
-    * https://docs.flutter.dev/platform-integration/web/initialization
-  -->
-  <script src="flutter_bootstrap.js" async></script>
-  <script>
-    // オフライン用の service worker を登録する（Flutter のローダーは、新しい版では自分では登録しない）。
-    // 読み込みが落ち着いてから、先読みを頼む（初回の読み込みを遅らせない）。
-    window.addEventListener('load', function () {
-      if (!('serviceWorker' in navigator)) return;
-      navigator.serviceWorker
-        .register('flutter_service_worker.js')
-        .then(function () {
-          setTimeout(function () {
-            navigator.serviceWorker.ready.then(function (reg) {
-              if (reg.active) reg.active.postMessage({ type: 'precache' });
-            });
-          }, 5000);
-        })
-        .catch(function () {});
-    });
-  </script>
+<main>
+<h1>まほうがっこう Wizlearn は、新しい URL に引っ越しました</h1>
+<p>これからは、新しい URL で遊べます。</p>
+<p><a class="btn" href="https://wizlearn.ownpace.dev/">新しい URL で遊ぶ</a></p>
+<div class="box">
+<p><strong>ご注意：これまでの進み具合は、新しい URL には引き継げません。</strong></p>
+<p>学習の記録は、お使いのブラウザの中に、URL ごとに保存されています。そのため、新しい URL では、最初から始めることになります。これまでの記録は、この古い URL に残っています。</p>
+<p>これまでのかたは、古い版を開いて、保護者メニューの記録（CSV のコピー）を、必要に応じて保存してからお移りください。</p>
+<p><a href="game.html">これまでの記録を見る・保存する（古い版を開く）</a></p>
+</div>
+<p>ホーム画面に追加している場合は、古いものを消して、新しい URL をあらためて追加してください。</p>
+<p>お問い合わせ：contact@ownpace.dev</p>
+</main>
 </body>
 </html>
